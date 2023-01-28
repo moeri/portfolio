@@ -4,6 +4,9 @@ body {
     font-family: "Bodoni Moda", "Hina Mincho", sans-serif;
     color: #666c67;
 }
+main{
+    width: 1000px;
+}
 h1 {
     font-size:250%
 }
