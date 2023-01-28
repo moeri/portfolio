@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-    background: #e6eae6;
+    background-color: #e6eae6;
     font-family: "Bodoni Moda", "Hina Mincho", sans-serif;
     color: #666c67;
 }
@@ -18,14 +18,14 @@ h1 {
 }
 .menu {
     display: flex;
-    background: #abb1ad;
+    background-color: #abb1ad;
     padding: 5px;
     list-style: none;
 }
 .menu_item {
     color: #e6eae6;
     text-decoration: none;
-    background: #abb1ad;
+    background-color: #abb1ad;
     padding: 5px;
     margin: 15px;
 }
