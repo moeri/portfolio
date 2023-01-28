@@ -23,6 +23,7 @@ h1 {
     display: flex;
     background-color: #abb1ad;
     padding: 5px;
+    padding-left: 100px;
     list-style: none;
 }
 .menu_item {
