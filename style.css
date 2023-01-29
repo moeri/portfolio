@@ -5,6 +5,7 @@ body {
     color: #666c67;
 }
 .container{
+    margin: 0 auto;
     max-width: 1200px;
 }
 h1 {
