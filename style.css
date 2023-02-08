@@ -26,8 +26,7 @@ h1 {
 }
 .menu {
     display: flex;
-    max-width: 500px;
-    margin: 0 auto;
+    display: inline-block;
     list-style: none;
 }
 .menu_item {
