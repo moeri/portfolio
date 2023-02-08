@@ -1,14 +1,18 @@
 @charset "UTF-8";
 body {
-    background: #e6eae6;
+    background-color: #e6eae6;
     font-family: "Bodoni Moda", "Hina Mincho", sans-serif;
     color: #666c67;
 }
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+}
 h1 {
-    font-size:250%
+    font-size: 250%
 }
 .header_bg{
-    background-image: url(images/header.jpg);
+    background-image: url("images/header.JPG");
     background-size: cover;
 }
 .header_txt{
@@ -16,16 +20,22 @@ h1 {
     padding-top: 100px;
     padding-bottom: 100px;
 }
+.menu_bg{
+    background-color: #abb1ad;
+    padding: 5px;
+}
 .menu {
     display: flex;
-    background: #abb1ad;
-    padding: 5px;
+    max-width: 500px;
+    margin: 0 auto;
     list-style: none;
 }
 .menu_item {
     color: #e6eae6;
+    font-size: 150%;
     text-decoration: none;
-    background: #abb1ad;
+    text-align: center;
+    background-color: #abb1ad;
     padding: 5px;
     margin: 15px;
 }
