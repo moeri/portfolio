@@ -3,10 +3,11 @@ body {
     background-color: #e6eae6;
     font-family: "Bodoni Moda", "Hina Mincho", sans-serif;
     color: #666c67;
+    max-width: 960px;
+    margin: 0 auto;
 }
 .container{
-    margin: 0 auto;
-    max-width: 1200px;
+
 }
 h1 {
     font-size:250%
