@@ -11,6 +11,9 @@ body {
 h1 {
     font-size: 250%
 }
+a {
+    color: #2F4F4F;
+}
 .header_bg{
     background-image: url("images/header.JPG");
     background-size: cover;
