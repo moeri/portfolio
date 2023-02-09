@@ -17,6 +17,9 @@ a {
 .flex{
     display: flex;
 }
+.spacer{
+    width: 50px;
+}
 .header_bg{
     background-image: url("images/header.JPG");
     background-size: cover;
