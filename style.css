@@ -14,6 +14,9 @@ h1 {
 a {
     color: #2f4f4f;
 }
+.flex{
+    display: flex;
+}
 .header_bg{
     background-image: url("images/header.JPG");
     background-size: cover;
